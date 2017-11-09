@@ -1,3 +1,28 @@
+# как тег <h1> Название проекта - myshop
+
+просто строка - как тег <p>
+
+
+## как тег <h2>
+
+- список - как тег <li>
+-
+-
+
+https://github.com/ksand12/myshop.git - путь для скачивания
+
+Для установки на своём компьютере данного проекта нужно:
+
+- Выполнить команду git clone 
+- Создать базу myshop у себя
+- Импортировать файл myshop.sql
+
+
+
+
+
+
+
 # [Start Bootstrap - Shop Homepage](https://startbootstrap.com/template-overviews/shop-homepage/)
 
 [Shop Homepage](http://startbootstrap.com/template-overviews/shop-homepage/) is a basic HTML online store homepage template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
